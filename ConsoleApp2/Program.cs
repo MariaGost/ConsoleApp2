@@ -45,8 +45,9 @@ namespace ConsoleApp2
             double average = numbers.Average();
             int sum = numbers.Sum();
             Console.WriteLine("минимум =" + min1);
-            Console.WriteLine("максимум="+ max1);
-            Console.
+            Console.WriteLine("максимум =" + max1);
+            Console.WriteLine("среднее =" + average);
+            Console.WriteLine("сумма =" + sum);
             Console.ReadLine();
         }
     }
